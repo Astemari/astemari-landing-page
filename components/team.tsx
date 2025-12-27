@@ -7,6 +7,7 @@ const contributors = [
   { name: "Bethel Solomon", role: "Lead Developer", initials: "BS" },
   { name: "Enkutatash Eshetu", role: "DevOps Engineer", initials: "EE" },
   { name: "Emnet Teshome", role: "Full Stack Dev", initials: "ET" },
+  { name: "Estifanos Zinabu", role: "Frontend Engineer", initials: "EZ" },
 ]
 
 export default function Team() {
